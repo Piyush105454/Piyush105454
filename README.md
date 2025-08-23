@@ -1,56 +1,78 @@
-Hi there, I'm Piyush Tamoli! 👋
+# Hi there, I'm Piyush Tamoli! 👋
 
-🚀 About Me
+![Profile Banner](https://github.com/your-username/your-username/blob/main/banner.png) <!-- optional banner image -->
 
-I'm a passionate developer with a keen interest in AI, Web Development, and App Development. I love building innovative solutions that solve real-world problems. Currently, I'm pursuing my B.Tech in Artificial Intelligence and Machine Learning and actively working on exciting projects.
+---
 
-💡 My Interests
+## 🚀 About Me  
+I’m a **developer & innovator** passionate about **AI 🤖, Web Development 🌐, and App Development 📱**.  
+Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**, I love solving real-world problems through tech, building scalable apps, and exploring startups 🚀.
 
-AI & Machine Learning 🤖
+---
 
-Web Development (Django) 🌐
+## 💡 Interests
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Web Development (Django + Modern Stacks)  
+- 📊 Competitive Programming & DSA  
+- 🚀 Startups & Innovation  
 
-Competitive Programming & DSA 📊
+---
 
-Startup & Innovation 🚀
+## 🔨 Tech Stack  
+**Languages:** Python, C++, JavaScript  
+**Frameworks & Tools:** Django, SQLite, MySQL  
+**AI & Data:** Machine Learning, Deep Learning, Cloud GPU Training  
+**Version Control:** Git & GitHub  
+**Cloud & Deployment:** AWS, Koyeb, Render  
 
+---
 
-🔨 Tech Stack
+## 📌 Notable Projects  
 
-Languages: Python, C++, JavaScript
+### 🍴 [Swap Eat](https://github.com/your-repo)  
+A **food exchange platform** reducing food waste with:  
+✔️ Map Integration  
+✔️ Real-Time Chat  
+✔️ Community Sharing  
 
-Frameworks & Tools: Django, SQLite, MySQL, 
+---
 
-AI & Data: Machine Learning, Deep Learning, Cloud GPU Training
+## 🏆 Achievements  
+🥈 **2nd Prize** – IIIT Bhopal Streetzy Blitz Hackathon  
+🏆 **Python Certified Developer**  
+🎤 Finalist – Multiple Hackathons & Startup Competitions  
 
-Version Control: Git & GitHub
+---
 
-Cloud & Deployment: AWS, koyab,render
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushtamoli&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushtamoli&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
-📌 Notable Projects
+---
 
-Swap Eat
+## 🔥 Streak Stats  
 
-A food exchange platform reducing food waste with map integration and real-time chat.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushtamoli&theme=radical" alt="GitHub Streak"/>
+</p>
 
-🏆 Achievements
+---
 
-🥈 2nd Prize in IIIT Bhopal Streetzy Blitz Hackathon
+## 🧑‍💻 Coder Type  
 
-🏆 Python Certified Developer
+💡 *“I’m the kind of coder who mixes logic with creativity — balancing **DSA precision** with **AI-powered innovation**.”*  
 
-🎤 Finalist in multiple Hackathons & Startup Competitions
+---
 
+## 📫 Connect with Me  
 
-📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-tamoli-751b2125a)  
+- 🐦 [Twitter (X)](https://x.com/Codefactmen?t=4IX04spdVptm-YL0wpcS0g&s=09)  
+- 📧 Email: **piyushmodi812@gmail.com**  
 
-💼 LinkedIn : 🔗 https://www.linkedin.com/in/piyush-tamoli-751b2125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
 
-🐦 Twitter. : https://x.com/Codefactmen?t=4IX04spdVptm-YL0wpcS0g&s=09
-
-📧 Email: piyushmodi812@gmail.com
-
-
-🚀 Always open to collaborating on innovative projects and learning new things!
-
+⭐️ *“Always open to collaborating on innovative projects & learning new things!”* 🚀  
