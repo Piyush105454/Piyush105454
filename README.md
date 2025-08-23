@@ -1,6 +1,6 @@
 # Hi there, I'm Piyush Tamoli! 👋
 
-![Profile Banner](https://github.com/Piyush105454/Piyush105454/blob/main/banner.png) <!-- optional banner image -->
+![Profile Banner](https://github-readme-streak-stats.herokuapp.com/?user=piyushtamoli&theme=radical) <!-- optional banner image -->
 
 ---
 
@@ -63,7 +63,7 @@ A **food exchange platform** reducing food waste with:
 
 ## 🧑‍💻 Coder Type  
 
-💡 *“I’m the kind of coder who mixes logic with creativity — balancing **DSA precision** with **AI-powered innovation**.”*  
+💡 *“I’m the kind of coder who mixes logic with creativity balancing **DSA precision** with **AI-powered innovation**.”*  
 
 ---
 
