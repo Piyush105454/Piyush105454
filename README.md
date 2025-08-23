@@ -1,6 +1,6 @@
 # Hi there, I'm Piyush Tamoli! 👋
 
-![Profile Banner](https://github.com/your-username/your-username/blob/main/banner.png) <!-- optional banner image -->
+![Profile Banner](https://github.com/Piyush105454/Piyush105454/blob/main/banner.png) <!-- optional banner image -->
 
 ---
 
@@ -29,7 +29,7 @@ Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**, I l
 
 ## 📌 Notable Projects  
 
-### 🍴 [Swap Eat](https://github.com/your-repo)  
+### 🍴 [Swap Eat](https://github.com/Piyush105454/swap-eat)  
 A **food exchange platform** reducing food waste with:  
 ✔️ Map Integration  
 ✔️ Real-Time Chat  
@@ -47,8 +47,8 @@ A **food exchange platform** reducing food waste with:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushtamoli&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushtamoli&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush105454&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush105454&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ A **food exchange platform** reducing food waste with:
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushtamoli&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush105454&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
