@@ -1,6 +1,6 @@
 # Hi there, I'm Piyush Tamoli! 👋
 
-![Profile Banner](https://github-readme-streak-stats.herokuapp.com/?user=piyushtamoli&theme=radical) <!-- optional banner image -->
+![Profile Banner](https://github-readme-streak-stats.herokuapp.com/?user=Piyush10545&theme=radical) <!-- optional banner image -->
 
 ---
 
