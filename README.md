@@ -96,9 +96,9 @@ I build **LLM-powered systems, automation workflows, and scalable backend archit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush10545&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush10545&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush10545&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush10545&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Piyush10545&theme=radical&hide_border=true)
 
