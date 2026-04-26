@@ -44,15 +44,6 @@ I build **LLM-powered systems, automation workflows, and scalable backend archit
 
 ## 📌 Featured Projects
 
-### 🏫 InnoAlaxy — School Management System
-> Production-grade school & volunteer management platform
-
-- 👥 Managing **200+ active volunteers** in live production
-- 📊 Dashboards for sessions, curriculum flow, centers & feedback
-- ⚛️ Frontend: **React, TypeScript, Tailwind CSS, Shadcn UI**
-- 🔗 [GitHub](https://github.com/Piyush10545) · [Live](#)
-
----
 
 ### 🤖 ResurrectCI — AI-Driven CI/CD Recovery System
 > Intelligent pipeline failure diagnosis & auto-recovery
