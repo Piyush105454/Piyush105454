@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-**B.Tech CSE (AI & ML)** student at RGPV · CGPA: 7.46
+**B.Tech CSE (AI & ML)** student .
 
 I build **LLM-powered systems, automation workflows, and scalable backend architectures**. I love turning complex real-world problems into clean, deployable solutions — from AI agents to full-stack platforms.
 
