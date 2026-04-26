@@ -92,17 +92,25 @@ I build **LLM-powered systems, automation workflows, and scalable backend archit
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush10545&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush105454&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" height="180"/>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush10545&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush105454&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Piyush10545&theme=radical&hide_border=true)
+</p>
 
-</div>
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush105454&theme=radical" alt="GitHub Streak"/>
+
+</p>
 
 ---
 
