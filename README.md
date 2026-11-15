@@ -33,7 +33,7 @@ I build **LLM-powered systems, automation workflows, and scalable backend archit
 ## 💼 Experience
 
 ### Full Stack Intern — Wazir Education Society (WES Foundation)
-`Dec 2025 – Feb 2026`
+`Dec 2025 – Present`
 
 - Designed and implemented a **CLAS** to optimize academic workflows at scale
 - Analyzed operational data across **7 schools and 500+ students** to identify efficiency bottlenecks
